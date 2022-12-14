@@ -22,5 +22,5 @@ A great enthusiast and curious about the tech world! 🌎
 
 ## Connect with me: 👩🏼‍💻
 <p align="center">
-<a href="mailto:fonsecalavinia00@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-C01025?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/lavinia-fonseca/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/lavsfonseca/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:fonsecalavinia00@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-C01025?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/lavinia-fonseca/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/fxxnseca/"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
