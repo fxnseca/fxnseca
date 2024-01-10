@@ -3,7 +3,7 @@
 ## About me: 🙋🏼‍♀️
 <b> *I'm Lavínia Fonseca!* 
 
-IT technician, graduated in 2014 by the Pronatec Government Program, and now, I'm a Computer Science student at the [Federal University of Ouro Preto](https://ufop.br/). I am currently part of the Junior Company, Voluta Soluções Digitais, where I work as a Project Manager.
+IT technician, graduated in 2014 by the Pronatec Government Program, and now, I'm a Computer Science student at the [Federal University of Ouro Preto](https://ufop.br/).
 Living in Ouro Preto, Brazil, I'm having the most hard, but great expearence of my life. 
 
 A great enthusiast and curious about the tech world! 🌎
